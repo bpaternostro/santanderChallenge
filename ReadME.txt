@@ -3,7 +3,7 @@ SantanderChallenge - Comentarios
   - toma el archivo de la carpeta data y deposita el procesado en la carpeta output
   - la denominación de los archivos de entrada y de salida se puede cambiar en el archivo Challenge.py
 # Las respuestas a las preguntas estan en el archivo: respuestas.txt
-# La imagen 'Arquitectura.jpg" es un soporte a las respuesta 3
+# La imagen 'Arquitectura.png" es un soporte a las respuesta 3
 
 Respuestas:
 
